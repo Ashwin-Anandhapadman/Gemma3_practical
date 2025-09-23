@@ -1,9 +1,10 @@
+# Gemma3 from scratch
 
-# BACKGROUND:
+## BACKGROUND:
 
     This repository tracks my journey of learning the recent advancements in a popular Small Language Models (SMLs) called Gemma3. This repo is a work in progress and will be updated frequently as I continue to learn the concepts in LLM architectures in detail.
 
-    The original architecture of the Gemma3 model is given as an image in this same repo. I try to come play with some parameters in the architecture, so the final parameter count need not be same as expected (~270M)
+    The original architecture of the Gemma3 model is given as an image in this same repo. I try to come play with some parameters in the architecture, so the final parameter count need not be same as expected (~270M) and will be around 50-70 million parameters.
 
 
 ## Basic architecture summary:
